@@ -6,8 +6,8 @@
 
 <br/>
 
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-sunnybhai274401@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sunny-singh-4266a63bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
@@ -28,7 +28,7 @@ const sunnySingh = {
 - 🔭 Currently sharpening my **React.js** skills and going deeper into **Node.js, Express & MongoDB**
 - 🌱 On a mission to become a confident **Full Stack MERN Developer**
 - 👯 Open to collaborating on frontend / full-stack projects
-- 📫 Best way to reach me: **your-email@example.com**
+- 📫 Best way to reach me: **sunnybhai274401@gmail.com**
 
 <br/>
 

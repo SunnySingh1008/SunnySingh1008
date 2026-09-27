@@ -228,7 +228,7 @@ alt="GitHub Streak"
 </a>
 
 </td>
-</tr>
+
 <!-- Currency Convertor -->
 <td width="33%" align="center">
 <!-- <img src="https://img.shields.io/badge/🛒_E--Commerce-8E2DE2?style=for-the-badge&labelColor=0D1117" /> -->

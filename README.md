@@ -1,72 +1,73 @@
-<h1 align="center">Hi 👋, I'm Sunny Singh</h1>
-<h3 align="center">MERN Stack Developer | Building Web Apps with React, Node.js & MongoDB</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React.js+Enthusiast;Learning+Node.js+%26+Express;Building+Full+Stack+Projects" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:339933&height=200&section=header&text=Sunny%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=58&descSize=20" width="100%" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express+%7C+MongoDB;Turning+Ideas+Into+Real+Products;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-### 🚀 About Me
-- 💻 I'm currently focused on becoming a **MERN Stack Developer**
-- ⚛️ Strong in **React.js** — building interactive, component-based UIs
-- 🌱 Currently learning **Node.js, Express.js & MongoDB** to go full-stack
-- 📫 Reach me at: **sunnybhai274401@gmail.com**
-- ⚡ Fun fact: I love turning ideas into real, working apps
+<br/>
 
----
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### 🛠️ Tech Stack
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<br/>
 
----
+## 👨‍💻 About Me
 
-### 📊 GitHub Stats
+```javascript
+const sunnySingh = {
+  role: "MERN Stack Developer",
+  strongestSkill: "React.js",
+  currentlyLearning: ["Node.js", "Express.js", "MongoDB"],
+  goal: "Building full-stack web applications that solve real problems",
+  funFact: "I enjoy turning ideas into working, real products"
+};
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SunnySingh1008&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SunnySingh1008&theme=radical" width="48%" />
-</p>
+- 🔭 Currently sharpening my **React.js** skills and going deeper into **Node.js, Express & MongoDB**
+- 🌱 On a mission to become a confident **Full Stack MERN Developer**
+- 👯 Open to collaborating on frontend / full-stack projects
+- 📫 Best way to reach me: **your-email@example.com**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnySingh1008&layout=compact&theme=radical" width="48%" />
-</p>
+<br/>
 
----
+## 🛠️ Tech Stack
 
-### 🔥 Featured Projects
+<div align="center">
 
-<!-- Jaise jaise projects banao, unhe yahan add karte jao -->
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
 
-**[Project Name Here](https://github.com/SunnySingh1008/repo-name)**
-> Short one-line description of what the project does.
-- Tech Used: React, Node.js, Express, MongoDB
-- 🔗 Live Demo: _(coming soon)_
+</div>
 
----
+<br/>
 
-### 📫 Connect with Me
+## 📊 GitHub Analytics
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sunny-singh-4266a63bb/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-sunnybhai274401@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=SunnySingh1008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SunnySingh1008&theme=tokyonight&hide_border=true" width="49%" />
+</div>
 
----
+<div align="center">
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=SunnySingh1008&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</div>
 
-<p align="center"><i>⭐️ Thanks for visiting my profile! Feel free to explore my repositories.</i></p>
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to interesting conversations, collaboration, or feedback.
+Feel free to reach out — always happy to connect with fellow developers!
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:339933,100:61DAFB&height=100&section=footer" width="100%" />
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=SunnySingh1008&label=Profile%20Views&color=61DAFB&style=flat" />
+</div>

@@ -63,30 +63,45 @@
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center" width="25%">
+
 ### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=js,python,c&theme=dark"/>
 
-<br><br>
+</td>
+
+<td align="center" width="25%">
 
 ### 🌐 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark"/>
 
-<br><br>
+</td>
 
-### ⚙️ Backend & Database
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
+### ⚙️ Backend
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
-### 🔧 Tools
+</td>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+<td align="center" width="25%">
+
+### 🗄️ Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode&theme=dark"/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats

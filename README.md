@@ -127,7 +127,8 @@ alt="GitHub Streak"
 <!-- Currency Convertor -->
 <td width="33%" align="center">
 
-<img src="https://img.shields.io/badge/🛒_E--Commerce-8E2DE2?style=for-the-badge&labelColor=0D1117" />
+<!-- <img src="https://img.shields.io/badge/🛒_E--Commerce-8E2DE2?style=for-the-badge&labelColor=0D1117" /> -->
+<img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
 
 <br><br>
 
@@ -222,10 +223,10 @@ alt="GitHub Streak"
 
 </td>
 
-<!-- Currency -->
+<!-- E-commerce -->
 <td width="33%" align="center">
 
-<img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
+<!-- <img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" /> -->
 
 <br><br>
 

@@ -250,17 +250,35 @@ alt="GitHub Contribution Snake"
 
 <div align="center">
 
-### ⚛️ React.js
+<table>
+<tr>
 
-### 🟢 Node.js
+<td align="center">
+⚛️ <b>React.js</b>
+</td>
 
-### 🚂 Express.js
+<td align="center">
+🟢 <b>Node.js</b>
+</td>
 
-### 🍃 MongoDB
+<td align="center">
+🚂 <b>Express.js</b>
+</td>
 
-### 🎨 Tailwind CSS
+<td align="center">
+🍃 <b>MongoDB</b>
+</td>
 
-### 🚀 Full Stack Development
+<td align="center">
+🎨 <b>Tailwind CSS</b>
+</td>
+
+<td align="center">
+🚀 <b>Full Stack Development</b>
+</td>
+
+</tr>
+</table>
 
 </div>
 

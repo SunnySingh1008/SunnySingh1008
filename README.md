@@ -123,93 +123,52 @@ alt="GitHub Streak"
 <div align="center">
 
 <table width="100%">
-
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 🛒 E-Commerce App
+### 🛒 E-Commerce
 
-Full-stack shopping platform with:
+🛍️ Full-stack shopping platform
 
-- 🛍️ Product management
-- 🛒 Shopping cart
-- 🔐 Authentication
-- 💳 Payment integration
-
-**Tech:** React • Node.js • Express • MongoDB
+**React • Node.js • Express • MongoDB**
 
 <br>
 
 <a href="https://github.com/SunnySingh1008">
-🔗 Repository
+🔗 View Project
 </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 💬 Chat Application
+### 💬 Chat App
 
-Real-time messaging application with:
+💬 Real-time messaging application
 
-- 💬 Instant messaging
-- 👥 Chat rooms
-- 🔔 Notifications
-- ⚡ Real-time communication
-
-**Tech:** React • Node.js • Socket.io
+**React • Node.js • Socket.io**
 
 <br>
 
 <a href="https://github.com/SunnySingh1008">
-🔗 Repository
+🔗 View Project
 </a>
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### ✅ Task Manager
 
-Task management application featuring:
+📋 Simple task management application
 
-- 📋 Task creation
-- 🔄 Task tracking
-- 🎯 Task management
-- 📱 Responsive interface
-
-**Tech:** React • JavaScript • CSS
+**React • JavaScript • CSS**
 
 <br>
 
 <a href="https://github.com/SunnySingh1008">
-🔗 Repository
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌦️ Weather App
-
-Weather application with:
-
-- 🌍 City search
-- 🌡️ Live temperature
-- 💨 Wind information
-- 💧 Humidity details
-
-**Tech:** JavaScript • API • HTML • CSS
-
-<br>
-
-<a href="https://github.com/SunnySingh1008">
-🔗 Repository
+🔗 View Project
 </a>
 
 </td>
@@ -218,45 +177,50 @@ Weather application with:
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 💱 Currency Converter
+### 🌦️ Weather App
 
-Currency conversion application with:
+🌍 Search cities and view weather
 
-- 💰 Amount conversion
-- 🌎 Multiple currencies
-- 🇺🇸 Currency flags
-- 🔄 Exchange rates
-
-**Tech:** JavaScript • API • HTML • CSS
+**JavaScript • API • HTML • CSS**
 
 <br>
 
 <a href="https://github.com/SunnySingh1008">
-🔗 Repository
+🔗 View Project
 </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 🧮 React Calculator
+### 💱 Currency Converter
 
-Calculator application built with React:
+💰 Convert currencies using API
 
-- ➕ Addition
-- ➖ Subtraction
-- ✖️ Multiplication
-- ➗ Division
-- 🔢 Decimal calculations
-
-**Tech:** React • JavaScript • CSS
+**JavaScript • API • HTML • CSS**
 
 <br>
 
 <a href="https://github.com/SunnySingh1008">
-🔗 Repository
+🔗 View Project
+</a>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🧮 React Calculator
+
+🔢 Calculator built with React
+
+**React • JavaScript • CSS**
+
+<br>
+
+<a href="https://github.com/SunnySingh1008">
+🔗 View Project
 </a>
 
 </td>
@@ -266,7 +230,6 @@ Calculator application built with React:
 </table>
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake

@@ -29,7 +29,7 @@
 </td>
 <td width="35%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938a3b02-a9c0-4550-9d61-14ee9994e659.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 
 </td>
 </tr>

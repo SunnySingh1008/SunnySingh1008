@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=SunnySingh1008&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="Profile Views"/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/SunnySingh1008">
 <img src="https://img.shields.io/github/followers/SunnySingh1008?label=Followers&style=for-the-badge&color=8E2DE2"/>

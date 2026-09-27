@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=230&section=header&text=Sunny%20Singh&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=160&section=header&text=Sunny%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=8E2DE2&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Sunny+Singh;MERN+Stack+Developer+%F0%9F%92%BB;I+Build+Things+for+the+Web+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=8E2DE2&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Sunny+Singh;MERN+Stack+Developer+%F0%9F%92%BB;I+Build+Things+for+the+Web+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=SunnySingh1008&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="Profile Views"/>
 
@@ -26,8 +24,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
-
 ## 🚀 About Me
 
 <table>
@@ -38,11 +34,11 @@
 ### 👨‍💻 Who Am I?
 
 - 💻 **MERN Stack Developer**
-- 🌱 Currently improving my **JavaScript, Python & Web Development** skills
+- 🌱 Improving my **JavaScript, Python & Web Development** skills
 - ⚛️ Building projects with **React.js**
-- 🎨 Creating clean and responsive UIs with **Tailwind CSS**
+- 🎨 Creating responsive UIs with **Tailwind CSS**
 - 🧠 Learning by building real-world projects
-- 🚀 Passionate about turning ideas into working applications
+- 🚀 Passionate about building web applications
 - 📚 Always learning something new
 - 📫 **Email:** `sunnybhai274401@gmail.com`
 
@@ -63,7 +59,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -93,20 +89,21 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img
 src="https://streak-stats.demolab.com?user=SunnySingh1008&theme=radical&hide_border=true&background=0D1117&stroke=8E2DE2&ring=4A00E0&fire=8E2DE2&currStreakLabel=8E2DE2"
 width="600"
+alt="GitHub Streak"
 />
 
 </div>
 
 ---
 
-# 🏆 Featured Projects
+## 🏆 Featured Projects
 
 <div align="center">
 
@@ -215,7 +212,7 @@ Currency conversion application with:
 - 💰 Amount conversion
 - 🌎 Multiple currencies
 - 🇺🇸 Currency flags
-- 🔄 Live exchange rates
+- 🔄 Exchange rates
 
 **Tech:** JavaScript • API • HTML • CSS
 
@@ -257,7 +254,7 @@ Calculator application built with React:
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -271,7 +268,7 @@ alt="GitHub Contribution Snake"
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 <div align="center">
 
@@ -291,7 +288,7 @@ alt="GitHub Contribution Snake"
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
 - 🚀 Become a strong **MERN Stack Developer**
 - ⚛️ Build more **React projects**
@@ -303,7 +300,7 @@ alt="GitHub Contribution Snake"
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -321,7 +318,7 @@ alt="GitHub Contribution Snake"
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -329,8 +326,12 @@ alt="GitHub Contribution Snake"
 
 ⭐ **Feel free to explore my repositories and projects.**
 
+</div>
+
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer"/>
 
 </div>

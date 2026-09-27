@@ -129,7 +129,7 @@ alt="GitHub Streak"
 <br>
   <br>
 💼 <b>Currency Convertor</b>
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>

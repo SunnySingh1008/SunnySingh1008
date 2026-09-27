@@ -70,7 +70,9 @@
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=js,python,c&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=python" title="Python" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=c" title="C" width="40" height="40"/>
 
 </td>
 
@@ -78,7 +80,10 @@
 
 ### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html" title="HTML5" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=css" title="CSS3" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=react" title="React" width="40" height="40"/>
 
 </td>
 
@@ -86,7 +91,8 @@
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=express" title="Express.js" width="40" height="40"/>
 
 </td>
 
@@ -94,7 +100,10 @@
 
 ### 🗄️ Database & Tools
 
-<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" title="Git" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="40" height="40"/>
 
 </td>
 
@@ -102,6 +111,7 @@
 </table>
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -124,7 +134,6 @@ alt="GitHub Streak"
 <tr>
 <!-- Currency Convertor -->
 <td width="33%" align="center">
-<!-- <img src="https://img.shields.io/badge/🛒_E--Commerce-8E2DE2?style=for-the-badge&labelColor=0D1117" /> -->
 <img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
 <br>
   <br>
@@ -145,7 +154,6 @@ alt="GitHub Streak"
 </td>
 <!-- Currency Convertor -->
 <td width="33%" align="center">
-<!-- <img src="https://img.shields.io/badge/🛒_E--Commerce-8E2DE2?style=for-the-badge&labelColor=0D1117" /> -->
 <img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
 <br>
   <br>
@@ -166,7 +174,6 @@ alt="GitHub Streak"
 </td>
 <!-- Currency Convertor -->
 <td width="33%" align="center">
-<!-- <img src="https://img.shields.io/badge/🛒_E--Commerce-8E2DE2?style=for-the-badge&labelColor=0D1117" /> -->
 <img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
 <br>
   <br>
@@ -188,7 +195,6 @@ alt="GitHub Streak"
 <tr>
 <!-- Currency Convertor -->
 <td width="33%" align="center">
-<!-- <img src="https://img.shields.io/badge/🛒_E--Commerce-8E2DE2?style=for-the-badge&labelColor=0D1117" /> -->
 <img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
 <br>
   <br>
@@ -209,7 +215,6 @@ alt="GitHub Streak"
 </td>
 <!-- Currency Convertor -->
 <td width="33%" align="center">
-<!-- <img src="https://img.shields.io/badge/🛒_E--Commerce-8E2DE2?style=for-the-badge&labelColor=0D1117" /> -->
 <img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
 <br>
   <br>
@@ -231,7 +236,6 @@ alt="GitHub Streak"
 
 <!-- Currency Convertor -->
 <td width="33%" align="center">
-<!-- <img src="https://img.shields.io/badge/🛒_E--Commerce-8E2DE2?style=for-the-badge&labelColor=0D1117" /> -->
 <img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
 <br>
   <br>
@@ -250,8 +254,6 @@ alt="GitHub Streak"
 </a>
 
 </td>
-
-
 
 </td>
 

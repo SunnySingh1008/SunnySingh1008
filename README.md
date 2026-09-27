@@ -130,137 +130,62 @@ alt="GitHub Streak"
 ## 🏆 Featured Projects
 
 <div align="center">
-<table>
-<tr>
-<!-- Currency Convertor -->
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
-<br>
-  <br>
-💼 <b>Currency Convertor</b>
-<br><br>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-<br>
-
-<a href="https://sunnysingh1008.github.io/currencyConverter/">
-  <img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>
-</a>
-
-</td>
-<!-- Currency Convertor -->
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
-<br>
-  <br>
-💼 <b>Currency Convertor</b>
-<br><br>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-<br>
-
-<a href="https://sunnysingh1008.github.io/currencyConverter/">
-  <img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>
-</a>
-
-</td>
-<!-- Currency Convertor -->
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
-<br>
-  <br>
-💼 <b>Currency Convertor</b>
-<br><br>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-<br>
-
-<a href="https://sunnysingh1008.github.io/currencyConverter/">
-  <img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>
-</a>
-
-</td>
-<tr>
-<!-- Currency Convertor -->
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
-<br>
-  <br>
-💼 <b>Currency Convertor</b>
-<br><br>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-<br>
-
-<a href="https://sunnysingh1008.github.io/currencyConverter/">
-  <img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>
-</a>
-
-</td>
-<!-- Currency Convertor -->
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
-<br>
-  <br>
-💼 <b>Currency Convertor</b>
-<br><br>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-<br>
-
-<a href="https://sunnysingh1008.github.io/currencyConverter/">
-  <img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>
-</a>
-
-</td>
-
-<!-- Currency Convertor -->
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
-<br>
-  <br>
-💼 <b>Currency Convertor</b>
-<br><br>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-<br>
-
-<a href="https://sunnysingh1008.github.io/currencyConverter/">
-  <img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>
-</a>
-
-</td>
-
-</td>
-
-</tr>
-</table>
+<img src="https://img.shields.io/badge/📌_20+_Projects_and_counting-8E2DE2?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
+
+<br>
+
+<details open>
+<summary><h3>🌐 Web Apps</h3></summary>
+<br>
+
+| Project | Tech Stack | Links |
+|---|---|---|
+| **💱 Currency Converter** — Real-time currency conversion app with live exchange rates | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="28"/> | [🚀 Live](https://sunnysingh1008.github.io/currencyConverter/) · [💻 Code](https://github.com/SunnySingh1008) |
+| **🛒 E-Commerce Store** — Full-stack shopping platform with cart & checkout | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="28"/> | [🚀 Live](#) · [💻 Code](https://github.com/SunnySingh1008) |
+| **📝 Task Manager** — MERN based to-do & productivity tracker | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="28"/> | [🚀 Live](#) · [💻 Code](https://github.com/SunnySingh1008) |
+| **🌦️ Weather App** — Location based weather forecast with API integration | <img src="https://skillicons.dev/icons?i=js,html,css" height="28"/> | [🚀 Live](#) · [💻 Code](https://github.com/SunnySingh1008) |
+| **📰 Blog Platform** — Full-stack blogging site with auth & comments | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="28"/> | [🚀 Live](#) · [💻 Code](https://github.com/SunnySingh1008) |
+| **💬 Chat App** — Real-time messaging using sockets | <img src="https://skillicons.dev/icons?i=react,nodejs,express" height="28"/> | [🚀 Live](#) · [💻 Code](https://github.com/SunnySingh1008) |
+
+</details>
+
+<details>
+<summary><h3>🎨 UI / Frontend Projects</h3></summary>
+<br>
+
+| Project | Tech Stack | Links |
+|---|---|---|
+| **🎵 Music Player UI** — Spotify-style player interface | <img src="https://skillicons.dev/icons?i=html,css,js" height="28"/> | [🚀 Live](#) · [💻 Code](https://github.com/SunnySingh1008) |
+| **📊 Admin Dashboard** — Analytics dashboard with charts | <img src="https://skillicons.dev/icons?i=react,tailwind" height="28"/> | [🚀 Live](#) · [💻 Code](https://github.com/SunnySingh1008) |
+| **🍔 Restaurant Landing Page** — Responsive landing page | <img src="https://skillicons.dev/icons?i=html,css,js" height="28"/> | [🚀 Live](#) · [💻 Code](https://github.com/SunnySingh1008) |
+
+</details>
+
+<details>
+<summary><h3>🛠️ Tools & Mini Projects</h3></summary>
+<br>
+
+| Project | Tech Stack | Links |
+|---|---|---|
+| **🧮 Calculator** — Simple JS calculator | <img src="https://skillicons.dev/icons?i=js,html,css" height="28"/> | [🚀 Live](#) · [💻 Code](https://github.com/SunnySingh1008) |
+| **🔐 Password Generator** — Random secure password tool | <img src="https://skillicons.dev/icons?i=js,html,css" height="28"/> | [🚀 Live](#) · [💻 Code](https://github.com/SunnySingh1008) |
+| **📋 QR Code Generator** — Generate QR codes from text/URL | <img src="https://skillicons.dev/icons?i=js,html,css" height="28"/> | [🚀 Live](#) · [💻 Code](https://github.com/SunnySingh1008) |
+
+</details>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/SunnySingh1008?tab=repositories">
+<img src="https://img.shields.io/badge/🔍_View_All_Repositories-4A00E0?style=for-the-badge"/>
+</a>
+
+</div>
+
 ---
 
 ## 🐍 Contribution Snake

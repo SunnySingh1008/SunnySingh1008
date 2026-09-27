@@ -293,111 +293,47 @@ alt="GitHub Contribution Snake"
 
 <div align="center">
 
-<table>
+<table width="90%" cellpadding="14" cellspacing="0">
 <tr>
 
 <td align="center" width="16%">
-<br>
-
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="45"/>
-
-<br><br>
-
-<b>React.js</b>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Learning-8E2DE2?style=flat-square"/>
-
-<br>
+  <font size="4">⚛️</font>
+  <br>
+  <b>React.js</b>
 </td>
 
 <td align="center" width="16%">
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="45"/>
-
-<br><br>
-
-<b>Node.js</b>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Learning-4A00E0?style=flat-square"/>
-
-<br>
+  <font size="4">🟢</font>
+  <br>
+  <b>Node.js</b>
 </td>
 
 <td align="center" width="16%">
-<br>
-
-<img src="https://skillicons.dev/icons?i=express&theme=dark" width="45"/>
-
-<br><br>
-
-<b>Express.js</b>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Learning-8E2DE2?style=flat-square"/>
-
-<br>
+  <font size="4">🚂</font>
+  <br>
+  <b>Express.js</b>
 </td>
 
 <td align="center" width="16%">
-<br>
-
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="45"/>
-
-<br><br>
-
-<b>MongoDB</b>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Learning-4A00E0?style=flat-square"/>
-
-<br>
+  <font size="4">🍃</font>
+  <br>
+  <b>MongoDB</b>
 </td>
 
 <td align="center" width="16%">
-<br>
-
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="45"/>
-
-<br><br>
-
-<b>Tailwind CSS</b>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Learning-8E2DE2?style=flat-square"/>
-
-<br>
+  <font size="4">🎨</font>
+  <br>
+  <b>Tailwind CSS</b>
 </td>
 
 <td align="center" width="16%">
-<br>
-
-🚀
-
-<br><br>
-
-<b>Full Stack</b>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Building-4A00E0?style=flat-square"/>
-
-<br>
+  <font size="4">🚀</font>
+  <br>
+  <b>Full Stack Development</b>
 </td>
 
 </tr>
 </table>
-
-<br>
-
-<img src="https://img.shields.io/badge/🚀_Learning._Building._Improving._Every_Day.-0D1117?style=for-the-badge&labelColor=8E2DE2"/>
 
 </div>
 

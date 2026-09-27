@@ -1,12 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Sunny%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=230&section=header&text=Sunny%20Singh&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+
+<br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Sunny+Singh;MERN+Stack+Developer;I+Build+Things+for+the+Web+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=8E2DE2&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Sunny+Singh;MERN+Stack+Developer+%F0%9F%92%BB;I+Build+Things+for+the+Web+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=SunnySingh1008&label=Profile%20Views&color=8e2de2&style=flat" alt="profile views"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=SunnySingh1008&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="Profile Views"/>
+
+<br><br>
+
+<a href="https://github.com/SunnySingh1008">
+<img src="https://img.shields.io/github/followers/SunnySingh1008?label=Followers&style=for-the-badge&color=8E2DE2"/>
+</a>
+
+<a href="https://github.com/SunnySingh1008">
+<img src="https://img.shields.io/github/stars/SunnySingh1008?label=Stars&style=for-the-badge&color=4A00E0"/>
+</a>
 
 </div>
 
@@ -14,20 +28,29 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
-<table width="100%">
+## 🚀 About Me
+
+<table>
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
-### 🚀 About Me
+### 👨‍💻 Who Am I?
 
-- 💻 I'm a **MERN Stack Developer** (MongoDB, Express, React, Node.js)
-- 🌱 Currently sharpening my skills in **Python, JavaScript & Web Development**
-- 🔭 I love building full-stack web apps and clean UIs with **Tailwind CSS**
-- 📫 Reach me at **sunnybhai274401@gmail.com**
-- ⚡ Fun fact: I enjoy turning ideas into working products!
+- 💻 **MERN Stack Developer**
+- 🌱 Currently improving my **JavaScript, Python & Web Development** skills
+- ⚛️ Building projects with **React.js**
+- 🎨 Creating clean and responsive UIs with **Tailwind CSS**
+- 🧠 Learning by building real-world projects
+- 🚀 Passionate about turning ideas into working applications
+- 📫 **Email:** `sunnybhai274401@gmail.com`
+
+### 💡 My Goal
+
+> Build useful, scalable and beautiful web applications while continuously improving my development skills.
 
 </td>
-<td width="35%" align="center">
+
+<td width="40%" align="center">
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 
@@ -35,115 +58,246 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
-
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,c,html,css,tailwind,js,react,nodejs,express,mongodb,git,github&theme=dark" />
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=js,python,c&theme=dark"/>
+
+<br><br>
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark"/>
+
+<br><br>
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
+
+<br><br>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=SunnySingh1008&theme=radical&hide_border=true&background=0D1117&stroke=8E2DE2&ring=4A00E0&fire=8E2DE2"
-  width="600"
-/>
+<img src="https://streak-stats.demolab.com?user=SunnySingh1008&theme=radical&hide_border=true&background=0D1117&stroke=8E2DE2&ring=4A00E0&fire=8E2DE2&currStreakLabel=8E2DE2" width="600"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SunnySingh1008&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
 ---
 
-### 🏆 Featured Projects
+## 🏆 Featured Projects
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
+<div align="center">
 
 <table width="100%">
+
 <tr>
-<td width="33%" align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=55&text=🛒%20E-Commerce%20App&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-Full-stack shopping platform with cart, auth & payments.
+<td width="50%" valign="top">
 
-[🔗 Repo](https://github.com/SunnySingh1008) &nbsp;`||`&nbsp; [🚀 Live Demo](https://github.com/SunnySingh1008)
+### 🛒 E-Commerce App
 
-</td>
-<td width="33%" align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=55&text=💬%20Chat%20App&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%"/>
+Full-stack shopping platform with:
 
-Real-time messaging app with rooms & instant notifications.
+- 🛍️ Product management
+- 🛒 Shopping cart
+- 🔐 Authentication
+- 💳 Payment integration
 
-[🔗 Repo](https://github.com/SunnySingh1008) &nbsp;`||`&nbsp; [🚀 Live Demo](https://github.com/SunnySingh1008)
+**Tech:** React • Node.js • Express • MongoDB
 
-</td>
-<td width="33%" align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C33764,100:1D2671&height=55&text=✅%20Task%20Manager&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<br>
 
-Kanban-style board with drag-and-drop task tracking.
-
-[🔗 Repo](https://github.com/SunnySingh1008) &nbsp;`||`&nbsp; [🚀 Live Demo](https://github.com/SunnySingh1008)
+[🔗 Repository](https://github.com/SunnySingh1008)
 
 </td>
+
+<td width="50%" valign="top">
+
+### 💬 Chat Application
+
+Real-time messaging application with:
+
+- 💬 Instant messaging
+- 👥 Chat rooms
+- 🔔 Notifications
+- ⚡ Real-time communication
+
+**Tech:** React • Node.js • Socket.io
+
+<br>
+
+[🔗 Repository](https://github.com/SunnySingh1008)
+
+</td>
+
 </tr>
+
 <tr>
-<td width="33%" align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D2671,100:C33764&height=55&text=🌐%20Portfolio%20Site&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-Personal developer portfolio with responsive animated UI.
+<td width="50%" valign="top">
 
-[🔗 Repo](https://github.com/SunnySingh1008) &nbsp;`||`&nbsp; [🚀 Live Demo](https://github.com/SunnySingh1008)
+### ✅ Task Manager
 
-</td>
-<td width="33%" align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998E,100:38EF7D&height=55&text=🌦️%20Weather%20App&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%"/>
+Task management application featuring:
 
-Live weather forecasts using location & city search.
+- 📋 Task creation
+- 🔄 Task tracking
+- 🎯 Kanban-style workflow
+- 📱 Responsive interface
 
-[🔗 Repo](https://github.com/SunnySingh1008) &nbsp;`||`&nbsp; [🚀 Live Demo](https://github.com/SunnySingh1008)
+**Tech:** React • JavaScript • CSS
 
-</td>
-<td width="33%" align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7971E,100:FFD200&height=55&text=📝%20Blog%20Platform&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<br>
 
-Full-stack blogging platform with rich text editor.
-
-[🔗 Repo](https://github.com/SunnySingh1008) &nbsp;`||`&nbsp; [🚀 Live Demo](https://github.com/SunnySingh1008)
+[🔗 Repository](https://github.com/SunnySingh1008)
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🌦️ Weather App
+
+Weather application with:
+
+- 🌍 City search
+- 🌡️ Live temperature
+- 💨 Wind information
+- 💧 Humidity details
+
+**Tech:** JavaScript • API • HTML • CSS
+
+<br>
+
+[🔗 Repository](https://github.com/SunnySingh1008)
+
+</td>
+
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Portfolio Website
+
+Personal developer portfolio featuring:
+
+- ✨ Animated UI
+- 📱 Responsive design
+- 🎨 Modern interface
+- 🚀 Project showcase
+
+**Tech:** HTML • CSS • JavaScript
+
+<br>
+
+[🔗 Repository](https://github.com/SunnySingh1008)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📝 Blog Platform
+
+Full-stack blogging platform with:
+
+- ✍️ Blog creation
+- 📝 Rich text editor
+- 👤 User authentication
+- 💾 Database integration
+
+**Tech:** MERN Stack
+
+<br>
+
+[🔗 Repository](https://github.com/SunnySingh1008)
+
+</td>
+
+</tr>
+
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
-
+</div>
 
 ---
-### 🐍 Contribution Snake
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SunnySingh1008/SunnySingh1008/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/SunnySingh1008/SunnySingh1008/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
-### 🌐 Connect with Me
+
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sunny-singh-4266a63bb/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SunnySingh1008&theme=react-dark&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sunny-singh-4266a63bb/">
+<img src="https://img.shields.io/badge/LinkedIn-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:sunnybhai274401@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-4A00E0?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SunnySingh1008">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
+<br>
+
 <div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+⭐ **Feel free to explore my repositories and projects.**
+
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/>
+
 </div>

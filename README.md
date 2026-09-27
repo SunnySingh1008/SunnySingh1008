@@ -256,12 +256,12 @@ Full-stack blogging platform with:
 
 ---
 
-### 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=SunnySingh1008&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=FFFFFF&area=true&hide_border=true&custom_title=Sunny%20Singh%27s%20Contribution%20Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=SunnySingh1008&theme=react-dark&hide_border=true&area=true"
   width="95%"
   alt="Sunny Singh's GitHub Activity Graph"
 />

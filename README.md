@@ -11,7 +11,7 @@
 - 💻 I'm currently focused on becoming a **MERN Stack Developer**
 - ⚛️ Strong in **React.js** — building interactive, component-based UIs
 - 🌱 Currently learning **Node.js, Express.js & MongoDB** to go full-stack
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **your-sunnybhai274401@gmail.com**
 - ⚡ Fun fact: I love turning ideas into real, working apps
 
 ---

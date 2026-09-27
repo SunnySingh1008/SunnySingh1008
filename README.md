@@ -43,19 +43,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,c,html,css,tailwind,js,react,nodejs,express,mongodb,git,github&theme=dark" />
 
 </div>
 
@@ -73,7 +61,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SunnySingh1008&theme=redical&hide_border=true&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SunnySingh1008&theme=react-dark&hide_border=true&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff" width="100%"/>
 </div>
 
 ---
@@ -84,46 +72,58 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<th width="50%">Project</th>
+<th width="50%">Links</th>
+</tr>
+<tr>
+<td>
 
-#### 🛒 [MERN E-Commerce App](https://github.com/SunnySingh1008)
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=1000&color=A78BFA&center=false&vCenter=true&width=400&height=25&lines=Full-stack+shopping+platform;Cart+%2B+Auth+%2B+Payments" />
-
-Full-featured shopping platform with cart, authentication, orders & admin dashboard.
-
-`React` `Node.js` `Express` `MongoDB` `JWT`
+**🛒 MERN E-Commerce App**
+Full-stack shopping platform with cart, auth & payments.
 
 </td>
-<td width="50%" valign="top">
+<td>
 
-#### 💬 [Real-Time Chat App](https://github.com/SunnySingh1008)
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=1000&color=A78BFA&center=false&vCenter=true&width=400&height=25&lines=Live+messaging+with+Socket.io;Rooms+%2B+Notifications" />
-
-Real-time messaging app with rooms, live typing indicators & notifications.
-
-`React` `Socket.io` `Express` `MongoDB`
+[🔗 Repo](https://github.com/SunnySingh1008) `||` [🚀 Live Demo](https://github.com/SunnySingh1008)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-#### ✅ [Task Manager](https://github.com/SunnySingh1008)
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=1000&color=A78BFA&center=false&vCenter=true&width=400&height=25&lines=Kanban-style+task+board;Drag+%2B+Drop+%2B+Deadlines" />
-
-Kanban-style productivity app with drag-and-drop boards & deadline tracking.
-
-`React` `Tailwind CSS` `Node.js` `MongoDB`
+**💬 Real-Time Chat App**
+Live messaging app with rooms & instant notifications.
 
 </td>
-<td width="50%" valign="top">
+<td>
 
-#### 🌐 [Portfolio Website](https://github.com/SunnySingh1008)
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=1000&color=A78BFA&center=false&vCenter=true&width=400&height=25&lines=Personal+developer+portfolio;Responsive+%2B+Animated+UI" />
+[🔗 Repo](https://github.com/SunnySingh1008) `||` [🚀 Live Demo](https://github.com/SunnySingh1008)
 
-Personal portfolio showcasing projects & skills with smooth animations.
+</td>
+</tr>
+<tr>
+<td>
 
-`React` `Tailwind CSS` `Framer Motion`
+**✅ Task Manager**
+Kanban-style board with drag-and-drop task tracking.
+
+</td>
+<td>
+
+[🔗 Repo](https://github.com/SunnySingh1008) `||` [🚀 Live Demo](https://github.com/SunnySingh1008)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🌐 Portfolio Website**
+Personal developer portfolio with responsive animated UI.
+
+</td>
+<td>
+
+[🔗 Repo](https://github.com/SunnySingh1008) `||` [🚀 Live Demo](https://github.com/SunnySingh1008)
 
 </td>
 </tr>
@@ -131,7 +131,7 @@ Personal portfolio showcasing projects & skills with smooth animations.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
-> 📝 *Project titles/links above are placeholders — replace with your actual repo links & descriptions when ready.*
+> 📝 *Placeholder links above — replace with your actual repo & live demo URLs.*
 
 ---
 

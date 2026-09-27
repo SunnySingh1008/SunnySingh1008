@@ -143,7 +143,7 @@ alt="GitHub Streak"
 <br><br>
 
 <a href=" https://sunnysingh1008.github.io/currencyConverter/">
-<img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>
+htyyyu
 </a>
 
 </td>

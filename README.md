@@ -124,14 +124,14 @@ alt="GitHub Streak"
 <table>
 <tr>
 
-<!-- E-Commerce -->
+<!-- Currency Convertor -->
 <td width="33%" align="center">
 
 <img src="https://img.shields.io/badge/🛒_E--Commerce-8E2DE2?style=for-the-badge&labelColor=0D1117" />
 
 <br><br>
 
-💼 <b>Full-Stack Shopping Platform</b>
+💼 <b>Currency Convertor</b>
 
 <br><br>
 
@@ -142,7 +142,7 @@ alt="GitHub Streak"
 
 <br><br>
 
-<a href="https://github.com/SunnySingh1008">
+<a href=" https://sunnysingh1008.github.io/currencyConverter/">
 <img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>
 </a>
 

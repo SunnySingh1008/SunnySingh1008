@@ -12,6 +12,12 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
+
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
 ### 🚀 About Me
 
 - 💻 I'm a **MERN Stack Developer** (MongoDB, Express, React, Node.js)
@@ -19,6 +25,17 @@
 - 🔭 I love building full-stack web apps and clean UIs with **Tailwind CSS**
 - 📫 Reach me at **sunnybhai274401@gmail.com**
 - ⚡ Fun fact: I enjoy turning ideas into working products!
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938a3b02-a9c0-4550-9d61-14ee9994e659.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
 ---
 
@@ -63,25 +80,58 @@
 
 ### 🏆 Featured Projects
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
-<a href="https://github.com/SunnySingh1008">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SunnySingh1008&repo=mern-ecommerce-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9" width="45%"/>
-</a>
-<a href="https://github.com/SunnySingh1008">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SunnySingh1008&repo=chat-app-mern&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9" width="45%"/>
-</a>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/SunnySingh1008">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SunnySingh1008&repo=task-manager-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9" width="45%"/>
-</a>
-<a href="https://github.com/SunnySingh1008">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SunnySingh1008&repo=portfolio-website&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9" width="45%"/>
-</a>
+#### 🛒 [MERN E-Commerce App](https://github.com/SunnySingh1008)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=1000&color=A78BFA&center=false&vCenter=true&width=400&height=25&lines=Full-stack+shopping+platform;Cart+%2B+Auth+%2B+Payments" />
 
-</div>
+Full-featured shopping platform with cart, authentication, orders & admin dashboard.
 
-> 📝 *Repo names above are placeholders — replace `mern-ecommerce-app`, `chat-app-mern`, `task-manager-app`, `portfolio-website` with your actual repo names to make these pin cards live.*
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+</td>
+<td width="50%" valign="top">
+
+#### 💬 [Real-Time Chat App](https://github.com/SunnySingh1008)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=1000&color=A78BFA&center=false&vCenter=true&width=400&height=25&lines=Live+messaging+with+Socket.io;Rooms+%2B+Notifications" />
+
+Real-time messaging app with rooms, live typing indicators & notifications.
+
+`React` `Socket.io` `Express` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ✅ [Task Manager](https://github.com/SunnySingh1008)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=1000&color=A78BFA&center=false&vCenter=true&width=400&height=25&lines=Kanban-style+task+board;Drag+%2B+Drop+%2B+Deadlines" />
+
+Kanban-style productivity app with drag-and-drop boards & deadline tracking.
+
+`React` `Tailwind CSS` `Node.js` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 [Portfolio Website](https://github.com/SunnySingh1008)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=1000&color=A78BFA&center=false&vCenter=true&width=400&height=25&lines=Personal+developer+portfolio;Responsive+%2B+Animated+UI" />
+
+Personal portfolio showcasing projects & skills with smooth animations.
+
+`React` `Tailwind CSS` `Framer Motion`
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
+
+> 📝 *Project titles/links above are placeholders — replace with your actual repo links & descriptions when ready.*
 
 ---
 

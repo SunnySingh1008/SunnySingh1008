@@ -143,125 +143,113 @@ alt="GitHub Streak"
 </a>
 
 </td>
-
-<!-- Chat App -->
+<!-- Currency Convertor -->
 <td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/💬_Chat_App-4A00E0?style=for-the-badge&labelColor=0D1117" />
-
-<br><br>
-
-💬 <b>Real-Time Messaging Application</b>
-
+<!-- <img src="https://img.shields.io/badge/🛒_E--Commerce-8E2DE2?style=for-the-badge&labelColor=0D1117" /> -->
+<img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
+<br>
+  <br>
+💼 <b>Currency Convertor</b>
 <br><br>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-<br><br>
+<br>
 
-<a href="https://github.com/SunnySingh1008">
-<img src="https://img.shields.io/badge/🚀_View_Project-4A00E0?style=for-the-badge"/>
+<a href="https://sunnysingh1008.github.io/currencyConverter/">
+  <img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>
 </a>
 
 </td>
-
-<!-- Task Manager -->
+<!-- Currency Convertor -->
 <td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/✅_Task_Manager-8E2DE2?style=for-the-badge&labelColor=0D1117" />
-
-<br><br>
-
-📋 <b>Simple Task Management App</b>
-
+<!-- <img src="https://img.shields.io/badge/🛒_E--Commerce-8E2DE2?style=for-the-badge&labelColor=0D1117" /> -->
+<img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
+<br>
+  <br>
+💼 <b>Currency Convertor</b>
 <br><br>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-<br><br>
+<br>
 
-<a href="https://github.com/SunnySingh1008">
-<img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>
+<a href="https://sunnysingh1008.github.io/currencyConverter/">
+  <img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>
 </a>
 
 </td>
-
-</tr>
-
-<tr>
-
-<!-- Weather -->
+<!-- Currency Convertor -->
 <td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/🌦️_Weather_App-4A00E0?style=for-the-badge&labelColor=0D1117" />
-
-<br><br>
-
-🌍 <b>Search Cities & View Weather</b>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/API-8E2DE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-<br><br>
-
-<a href="https://github.com/SunnySingh1008">
-<img src="https://img.shields.io/badge/🚀_View_Project-4A00E0?style=for-the-badge"/>
-</a>
-
-</td>
-
-<!-- E-commerce -->
-<td width="33%" align="center">
-
-<!-- <img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" /> -->
-
-<br><br>
-
-💰 <b>Currency Converter Using API</b>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/API-4A00E0?style=flat-square"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-<br><br>
-
-<a href="https://github.com/SunnySingh1008">
-<img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>
-</a>
-
-</td>
-
-<!-- Calculator -->
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/🧮_React_Calculator-4A00E0?style=for-the-badge&labelColor=0D1117" />
-
-<br><br>
-
-🔢 <b>Calculator Built With React</b>
-
+<!-- <img src="https://img.shields.io/badge/🛒_E--Commerce-8E2DE2?style=for-the-badge&labelColor=0D1117" /> -->
+<img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
+<br>
+  <br>
+💼 <b>Currency Convertor</b>
 <br><br>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
+<br>
+
+<a href="https://sunnysingh1008.github.io/currencyConverter/">
+  <img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>
+</a>
+
+</td>
+<!-- Currency Convertor -->
+<td width="33%" align="center">
+<!-- <img src="https://img.shields.io/badge/🛒_E--Commerce-8E2DE2?style=for-the-badge&labelColor=0D1117" /> -->
+<img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
+<br>
+  <br>
+💼 <b>Currency Convertor</b>
 <br><br>
 
-<a href="https://github.com/SunnySingh1008">
-<img src="https://img.shields.io/badge/🚀_View_Project-4A00E0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+<br>
+
+<a href="https://sunnysingh1008.github.io/currencyConverter/">
+  <img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>
 </a>
+
+</td>
+<!-- Currency Convertor -->
+<td width="33%" align="center">
+<!-- <img src="https://img.shields.io/badge/🛒_E--Commerce-8E2DE2?style=for-the-badge&labelColor=0D1117" /> -->
+<img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
+<br>
+  <br>
+💼 <b>Currency Convertor</b>
+<br><br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+<br>
+
+<a href="https://sunnysingh1008.github.io/currencyConverter/">
+  <img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>
+</a>
+
+</td>
+
+
 
 </td>
 

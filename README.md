@@ -124,17 +124,13 @@ Full-stack blogging platform with rich text editor.
 
 
 ---
-
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/SunnySingh1008/SunnySingh1008/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/SunnySingh1008/SunnySingh1008/output/github-contribution-grid-snake-dark.svg" width="100%">
+
 </div>
-
-> ⚙️ *This snake animation needs a one-time GitHub Action setup in your profile repo — ask me and I'll give you the exact workflow file to add.*
-
----
-
 ### 🌐 Connect with Me
 
 <div align="center">

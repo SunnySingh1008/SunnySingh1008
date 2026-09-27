@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Sunny%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Sunny+Singh;MERN+Stack+Developer;I+Build+Things+for+the+Web+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Sunny+Singh;MERN+Stack+Developer;I+Build+Things+for+the+Web+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=SunnySingh1008&label=Profile%20Views&color=8e2de2&style=flat" alt="profile views"/>
@@ -53,15 +53,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SunnySingh1008&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SunnySingh1008&theme=radical&hide_border=true&background=0D1117&stroke=8E2DE2&ring=4A00E0&fire=8E2DE2" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SunnySingh1008&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=SunnySingh1008&theme=radical&hide_border=true&background=0D1117&stroke=8E2DE2&ring=4A00E0&fire=8E2DE2" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnySingh1008&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnySingh1008&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9&langs_count=8" width="49%" />
 
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SunnySingh1008&theme=react-dark&hide_border=true&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff" width="100%"/>
 </div>
 
 ---
@@ -72,58 +68,54 @@
 
 <table width="100%">
 <tr>
-<th width="50%">Project</th>
-<th width="50%">Links</th>
-</tr>
-<tr>
-<td>
+<td width="33%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=55&text=🛒%20E-Commerce%20App&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-**🛒 MERN E-Commerce App**
 Full-stack shopping platform with cart, auth & payments.
 
-</td>
-<td>
-
-[🔗 Repo](https://github.com/SunnySingh1008) `||` [🚀 Live Demo](https://github.com/SunnySingh1008)
+[🔗 Repo](https://github.com/SunnySingh1008) &nbsp;`||`&nbsp; [🚀 Live Demo](https://github.com/SunnySingh1008)
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="33%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=55&text=💬%20Chat%20App&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-**💬 Real-Time Chat App**
-Live messaging app with rooms & instant notifications.
+Real-time messaging app with rooms & instant notifications.
 
-</td>
-<td>
-
-[🔗 Repo](https://github.com/SunnySingh1008) `||` [🚀 Live Demo](https://github.com/SunnySingh1008)
+[🔗 Repo](https://github.com/SunnySingh1008) &nbsp;`||`&nbsp; [🚀 Live Demo](https://github.com/SunnySingh1008)
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="33%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C33764,100:1D2671&height=55&text=✅%20Task%20Manager&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-**✅ Task Manager**
 Kanban-style board with drag-and-drop task tracking.
 
-</td>
-<td>
-
-[🔗 Repo](https://github.com/SunnySingh1008) `||` [🚀 Live Demo](https://github.com/SunnySingh1008)
+[🔗 Repo](https://github.com/SunnySingh1008) &nbsp;`||`&nbsp; [🚀 Live Demo](https://github.com/SunnySingh1008)
 
 </td>
 </tr>
 <tr>
-<td>
+<td width="33%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D2671,100:C33764&height=55&text=🌐%20Portfolio%20Site&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-**🌐 Portfolio Website**
 Personal developer portfolio with responsive animated UI.
 
-</td>
-<td>
+[🔗 Repo](https://github.com/SunnySingh1008) &nbsp;`||`&nbsp; [🚀 Live Demo](https://github.com/SunnySingh1008)
 
-[🔗 Repo](https://github.com/SunnySingh1008) `||` [🚀 Live Demo](https://github.com/SunnySingh1008)
+</td>
+<td width="33%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998E,100:38EF7D&height=55&text=🌦️%20Weather%20App&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%"/>
+
+Live weather forecasts using location & city search.
+
+[🔗 Repo](https://github.com/SunnySingh1008) &nbsp;`||`&nbsp; [🚀 Live Demo](https://github.com/SunnySingh1008)
+
+</td>
+<td width="33%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7971E,100:FFD200&height=55&text=📝%20Blog%20Platform&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%"/>
+
+Full-stack blogging platform with rich text editor.
+
+[🔗 Repo](https://github.com/SunnySingh1008) &nbsp;`||`&nbsp; [🚀 Live Demo](https://github.com/SunnySingh1008)
 
 </td>
 </tr>
@@ -131,7 +123,7 @@ Personal developer portfolio with responsive animated UI.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
-> 📝 *Placeholder links above — replace with your actual repo & live demo URLs.*
+> 📝 *Placeholder names/links above — replace with your actual project names, repo & live demo URLs.*
 
 ---
 

@@ -120,28 +120,22 @@ alt="GitHub Streak"
 ## 🏆 Featured Projects
 
 <div align="center">
-
 <table>
 <tr>
-
 <!-- Currency Convertor -->
 <td width="33%" align="center">
-
 <!-- <img src="https://img.shields.io/badge/🛒_E--Commerce-8E2DE2?style=for-the-badge&labelColor=0D1117" /> -->
 <img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
-
-<br><br>
-
+<br>
 💼 <b>Currency Convertor</b>
-
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-<br><br>
+<br>
 
 <a href="https://sunnysingh1008.github.io/currencyConverter/">
   <img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>

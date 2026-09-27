@@ -117,58 +117,79 @@ alt="GitHub Streak"
 </div>
 
 ---
-
 ## 🏆 Featured Projects
 
 <div align="center">
 
-<table width="100%">
+<table>
 <tr>
 
-<td width="33%" align="center" valign="top">
+<!-- E-Commerce -->
+<td width="33%" align="center">
 
-### 🛒 E-Commerce
+<img src="https://img.shields.io/badge/🛒_E--Commerce-8E2DE2?style=for-the-badge&labelColor=0D1117" />
 
-🛍️ Full-stack shopping platform
+<br><br>
 
-**React • Node.js • Express • MongoDB**
+💼 <b>Full-Stack Shopping Platform</b>
 
-<br>
+<br><br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+<br><br>
 
 <a href="https://github.com/SunnySingh1008">
-🔗 View Project
+<img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>
 </a>
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<!-- Chat App -->
+<td width="33%" align="center">
 
-### 💬 Chat App
+<img src="https://img.shields.io/badge/💬_Chat_App-4A00E0?style=for-the-badge&labelColor=0D1117" />
 
-💬 Real-time messaging application
+<br><br>
 
-**React • Node.js • Socket.io**
+💬 <b>Real-Time Messaging Application</b>
 
-<br>
+<br><br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+
+<br><br>
 
 <a href="https://github.com/SunnySingh1008">
-🔗 View Project
+<img src="https://img.shields.io/badge/🚀_View_Project-4A00E0?style=for-the-badge"/>
 </a>
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<!-- Task Manager -->
+<td width="33%" align="center">
 
-### ✅ Task Manager
+<img src="https://img.shields.io/badge/✅_Task_Manager-8E2DE2?style=for-the-badge&labelColor=0D1117" />
 
-📋 Simple task management application
+<br><br>
 
-**React • JavaScript • CSS**
+📋 <b>Simple Task Management App</b>
 
-<br>
+<br><br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+<br><br>
 
 <a href="https://github.com/SunnySingh1008">
-🔗 View Project
+<img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>
 </a>
 
 </td>
@@ -177,56 +198,78 @@ alt="GitHub Streak"
 
 <tr>
 
-<td width="33%" align="center" valign="top">
+<!-- Weather -->
+<td width="33%" align="center">
 
-### 🌦️ Weather App
+<img src="https://img.shields.io/badge/🌦️_Weather_App-4A00E0?style=for-the-badge&labelColor=0D1117" />
 
-🌍 Search cities and view weather
+<br><br>
 
-**JavaScript • API • HTML • CSS**
+🌍 <b>Search Cities & View Weather</b>
 
-<br>
+<br><br>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/API-8E2DE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+<br><br>
 
 <a href="https://github.com/SunnySingh1008">
-🔗 View Project
+<img src="https://img.shields.io/badge/🚀_View_Project-4A00E0?style=for-the-badge"/>
 </a>
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<!-- Currency -->
+<td width="33%" align="center">
 
-### 💱 Currency Converter
+<img src="https://img.shields.io/badge/💱_Currency_Converter-8E2DE2?style=for-the-badge&labelColor=0D1117" />
 
-💰 Convert currencies using API
+<br><br>
 
-**JavaScript • API • HTML • CSS**
+💰 <b>Currency Converter Using API</b>
 
-<br>
+<br><br>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/API-4A00E0?style=flat-square"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+<br><br>
 
 <a href="https://github.com/SunnySingh1008">
-🔗 View Project
+<img src="https://img.shields.io/badge/🚀_View_Project-8E2DE2?style=for-the-badge"/>
 </a>
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<!-- Calculator -->
+<td width="33%" align="center">
 
-### 🧮 React Calculator
+<img src="https://img.shields.io/badge/🧮_React_Calculator-4A00E0?style=for-the-badge&labelColor=0D1117" />
 
-🔢 Calculator built with React
+<br><br>
 
-**React • JavaScript • CSS**
+🔢 <b>Calculator Built With React</b>
 
-<br>
+<br><br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+<br><br>
 
 <a href="https://github.com/SunnySingh1008">
-🔗 View Project
+<img src="https://img.shields.io/badge/🚀_View_Project-4A00E0?style=for-the-badge"/>
 </a>
 
 </td>
 
 </tr>
-
 </table>
 
 </div>

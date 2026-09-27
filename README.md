@@ -53,13 +53,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SunnySingh1008&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com?user=SunnySingh1008&theme=radical&hide_border=true&background=0D1117&stroke=8E2DE2&ring=4A00E0&fire=8E2DE2" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnySingh1008&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9&langs_count=8" width="49%" />
+<img
+  src="https://streak-stats.demolab.com?user=SunnySingh1008&theme=radical&hide_border=true&background=0D1117&stroke=8E2DE2&ring=4A00E0&fire=8E2DE2"
+  width="600"
+/>
 
 </div>
-
 ---
 
 ### 🏆 Featured Projects

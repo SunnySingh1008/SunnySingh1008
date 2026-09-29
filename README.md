@@ -144,7 +144,7 @@ alt="GitHub Streak"
 | Project | Tech Stack | Links |
 |---|---|---|
 | **💱 Currency Converter** — Real-time currency conversion app with live exchange rates | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="28"/> | [🚀 Live](https://sunnysingh1008.github.io/currencyConverter/) · [💻 Code](https://github.com/SunnySingh1008) |
-| **🛒 E-Commerce Store** — Full-stack shopping platform with cart & checkout | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="28"/> | [🚀 Live](#) · [💻 Code](https://github.com/SunnySingh1008) |
+| **🛒 E-Commerce Store** — Full-stack shopping platform with cart & checkout | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="28"/> | [🚀 Live](#) · [💻 Code]( https://sunnysingh1008.github.io/store/) |
 | **📝 Task Manager** — MERN based to-do & productivity tracker | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="28"/> | [🚀 Live](#) · [💻 Code](https://github.com/SunnySingh1008) |
 | **🌦️ Weather App** — Location based weather forecast with API integration | <img src="https://skillicons.dev/icons?i=js,html,css" height="28"/> | [🚀 Live](#) · [💻 Code](https://github.com/SunnySingh1008) |
 | **📰 Blog Platform** — Full-stack blogging site with auth & comments | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="28"/> | [🚀 Live](#) · [💻 Code](https://github.com/SunnySingh1008) |

@@ -143,7 +143,7 @@ alt="GitHub Streak"
 
 | Project | Tech Stack | Links |
 |---|---|---|
-| **💱 Currency Converter** — Real-time currency conversion app with live exchange rates | <img src="https://skillicons.dev/icons?i=js,html,css" height="28"/> | [🚀 Live](https://sunnysingh1008.github.io/currencyConverter/) · [💻 Code](https://github.com/SunnySingh1008) |
+| **💱 Currency Converter** — Real-time currency conversion app with live exchange rates | <img src="https://skillicons.dev/icons?i=js,html,css" height="28"/> | [🚀 Live](https://sunnysingh1008.github.io/currencyConverter/) · [💻 Code](https://github.com/SunnySingh1008/currencyConverter) |
 | **🛒 E-Commerce Store** — Full-stack shopping platform with cart & checkout | <img src="https://skillicons.dev/icons?i=html,css" height="28"/> | [🚀 Live]( https://sunnysingh1008.github.io/store/) · [💻 Code](https://github.com/SunnySingh1008/store) |
 | **Nexus Criminal Network Analysis** — MERN based to-do & productivity tracker | <img src="https://skillicons.dev/icons?i=react,html,css" height="28"/> | [🚀 Live](https://sunnysingh1008.github.io/nexus-criminal-network_analysis/) · [💻 Code](https://github.com/SunnySingh1008/nexus-criminal-network_analysis) |
 | **RazorPay** — Location based weather forecast with API integration | <img src="https://skillicons.dev/icons?i=html,tailwind" height="28"/> | [🚀 Live]( https://sunnysingh1008.github.io/Razor_pay/) · [💻 Code](https://github.com/SunnySingh1008/Razor_pay) |
